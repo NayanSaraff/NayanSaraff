@@ -1,4 +1,4 @@
-<img width="1840" height="690" alt="image" src="https://github.com/user-attachments/assets/54fdfae9-2bbf-4e5e-b0cf-2d2706547ff4" />## Hi there 👋
+## Hi there 👋
 
 <!--
 **NayanSaraff/NayanSaraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![An image of @nayansaraff's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nayansaraff)](https://holopin.io/@nayansaraff)
